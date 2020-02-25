@@ -1,7 +1,3 @@
-## PharmaciesOnDuty
+## Welcome
 
-Pharmacies On Duty API for Istanbul. 
-
-### TODO
-
-Detailed Documentation
+Welcome to my github page.
